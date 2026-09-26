@@ -1,7 +1,5 @@
 # 2B0X — Virtual OS Launcher
 
-**v1.0 (beta)**
-
 A lightweight, VirtualBox-style desktop app for Linux that launches OS images —
 ISO files, ZIP archives, or plain folders — as real virtual machines using
 QEMU/KVM.
